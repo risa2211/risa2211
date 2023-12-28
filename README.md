@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridha Salam 👻</h1>
 <h3 align="center">A passionate and creative developer !</h3>
-<img align=”right” alt=”coding” width=”400” src=”https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif”>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT & DATA ANALYTICS**
 
@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ridha salam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ridha salam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ridha salam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="ridha salam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ridhasalam2211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ridhasalam2211" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ridhasalam2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ridhasalam2211" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ridhasalam2211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ridhasalam2211" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ridhasalam2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ridhasalam2003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ridhasalam2211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="@ridhasalam2211" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ridhasalam2211" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="ridhasalam2211" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ridhasalam2003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="ridhasalam2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
